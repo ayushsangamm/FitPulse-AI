@@ -28,12 +28,12 @@
 
 ## 🛠️ Tech Stack
 
-- **Framework:** [Next.js 15](https://nextjs.org/) (App Router, Server Components)
-- **Language:** [TypeScript](https://www.typescriptlang.org/)
-- **Styling:** [Tailwind CSS](https://tailwindcss.com/) & [Shadcn UI](https://ui.shadcn.com/)
-- **AI Models:** [Google Gemini AI](https://ai.google.dev/) (LLM Logic) & [Vapi AI](https://vapi.ai/) (Voice Agent)
-- **Database:** [Convex](https://www.convex.dev/) (Real-time Backend)
-- **Auth:** [Clerk](https://clerk.com/)
+- **Framework:** Next.js 15 (App Router, Server Components)
+- **Frontend:** React, JavaScript
+- **Styling:** Tailwind CSS, Shadcn UI
+- **AI Models:** Google Gemini AI, Vapi AI (Voice Agent)
+- **Database:** Convex (Real-time Backend)
+- **Auth:** Clerk
 
 ---
 
@@ -46,6 +46,6 @@ Ensure you have **Node.js 18+** and **npm** installed on your machine.
 ### 2. Clone & Install
 
 ```bash
-git clone https://github.com/ayushsangamm/FitPulse-AI.git
-cd fitpulse-ai
+git clone [https://github.com/ayushsangamm/FitPulse-AI.git](https://github.com/ayushsangamm/FitPulse-AI.git)
+cd FitPulse-AI
 npm install
