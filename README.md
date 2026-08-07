@@ -46,6 +46,6 @@ Ensure you have **Node.js 18+** and **npm** installed on your machine.
 ### 2. Clone & Install
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/fitpulse-ai.git](https://github.com/YOUR_USERNAME/fitpulse-ai.git)
+git clone https://github.com/ayushsangamm/FitPulse-AI.git
 cd fitpulse-ai
 npm install
